@@ -1,6 +1,6 @@
 # 游戏编程模式
 
- > 译者：[tkchu](https://github.com/tkchu)
+> 译者：[tkchu](https://github.com/tkchu)
 > 
 > 来源：[游戏编程模式](http://gpp.tkchu.me/)
 

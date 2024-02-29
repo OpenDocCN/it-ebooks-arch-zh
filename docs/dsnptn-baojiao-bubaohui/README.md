@@ -1,6 +1,4 @@
-# 介紹
-
-# design pattern 包教不包会
+# 设计模式包教不包会
 
 > 作者：[AlfredTheBest](https://github.com/AlfredTheBest)
 > 

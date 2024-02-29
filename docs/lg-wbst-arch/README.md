@@ -1,6 +1,4 @@
-# 介紹
-
-# High Scaling Websites Structure Learning Notes 大型網站架構學習筆記
+# 大型網站架構學習筆記
 
 ## 作者 : KeJyun
 
