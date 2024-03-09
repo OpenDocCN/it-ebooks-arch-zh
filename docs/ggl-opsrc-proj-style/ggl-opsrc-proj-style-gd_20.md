@@ -1,11 +1,3 @@
-### Navigation
-
-*   index
-*   next |
-*   previous |
-*   Google 开源项目风格指南 »
-*   Objective-C 风格指南 - 内容目录 »
-
 # Cocoa 模式
 
 ## 委托模式

@@ -1,11 +1,3 @@
-### Navigation
-
-*   index
-*   next |
-*   previous |
-*   Google 开源项目风格指南 »
-*   Shell 风格指南 - 内容目录 »
-
 # 扉页
 
 | 版本: | 1.26 |

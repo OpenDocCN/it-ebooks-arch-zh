@@ -1,10 +1,3 @@
-### Navigation
-
-*   index
-*   next |
-*   previous |
-*   Google 开源项目风格指南 »
-
 # Google 开源项目风格指南 (中文版)
 
 *   在线文档托管在 ReadTheDocs : [在线阅读最新版本](http://zh-google-styleguide.readthedocs.org/) [http://zh-google-styleguide.readthedocs.org/]

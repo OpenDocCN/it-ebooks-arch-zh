@@ -1,11 +1,3 @@
-### Navigation
-
-*   index
-*   next |
-*   previous |
-*   Google 开源项目风格指南 »
-*   Python 风格指南 - 内容目录 »
-
 # Python 语言规范
 
 ## Lint

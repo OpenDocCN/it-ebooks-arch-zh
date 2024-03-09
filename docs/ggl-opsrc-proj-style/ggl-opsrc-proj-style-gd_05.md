@@ -1,11 +1,3 @@
-### Navigation
-
-*   index
-*   next |
-*   previous |
-*   Google 开源项目风格指南 »
-*   C++ 风格指南 - 内容目录 »
-
 # 2\. 作用域
 
  ## 2.1\. 名字空间

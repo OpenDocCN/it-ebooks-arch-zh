@@ -1,11 +1,3 @@
-### 导航
-
-*   索引
-*   下一页 |
-*   上一页") |
-*   Graphic Design Patterns »
-*   创建型模式 »
-
 # 3\. 抽象工厂模式(Abstract Factory)
 
 目录

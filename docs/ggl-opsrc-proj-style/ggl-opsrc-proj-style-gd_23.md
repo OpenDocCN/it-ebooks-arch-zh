@@ -1,11 +1,3 @@
-### Navigation
-
-*   index
-*   next |
-*   previous |
-*   Google 开源项目风格指南 »
-*   Python 风格指南 - 内容目录 »
-
 # 背景
 
 Python 是 Google 主要的脚本语言。这本风格指南主要包含的是针对 python 的编程准则。

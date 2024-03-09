@@ -1,11 +1,3 @@
-### Navigation
-
-*   index
-*   next |
-*   previous |
-*   Google 开源项目风格指南 »
-*   C++ 风格指南 - 内容目录 »
-
 # 10\. 结束语
 
 Tip

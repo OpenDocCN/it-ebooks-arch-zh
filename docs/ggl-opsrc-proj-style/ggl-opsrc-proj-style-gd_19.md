@@ -1,11 +1,3 @@
-### Navigation
-
-*   index
-*   next |
-*   previous |
-*   Google 开源项目风格指南 »
-*   Objective-C 风格指南 - 内容目录 »
-
 # Cocoa 和 Objective-C 特性
 
 ## 成员变量应该是 `@private`

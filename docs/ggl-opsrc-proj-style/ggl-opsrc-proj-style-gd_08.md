@@ -1,11 +1,3 @@
-### Navigation
-
-*   index
-*   next |
-*   previous |
-*   Google 开源项目风格指南 »
-*   C++ 风格指南 - 内容目录 »
-
 # 5\. 其他 C++ 特性
 
 ## 5.1\. 引用参数

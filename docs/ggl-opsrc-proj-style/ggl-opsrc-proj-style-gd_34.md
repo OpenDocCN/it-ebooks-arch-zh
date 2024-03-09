@@ -1,11 +1,3 @@
-### Navigation
-
-*   index
-*   next |
-*   previous |
-*   Google 开源项目风格指南 »
-*   Shell 风格指南 - 内容目录 »
-
 # 特性及错误
 
 ## 命令替换
